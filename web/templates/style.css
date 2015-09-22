@@ -1,0 +1,143 @@
+body {
+	font-family:tahoma, arial;
+	font-size:8pt;
+	color:#181818;
+	margin:0;
+	background:#ffffff;
+}
+
+a {
+	font-family:tahoma, arial;
+	font-size:8pt;
+	color:#000000;
+	text-decoration:none;
+}
+
+a:visited, a:link {
+	color: #000000;
+	text-decoration:nonr;
+}
+
+a:active, a:hover {
+	color: #ed8b0d;
+	text-decoration:underline;
+}
+
+img {
+	border:0;
+}
+
+input, textarea {
+	font-family:tahoma, arial;
+	font-size:8pt;
+	padding:1px;
+}
+
+select {
+	font-family:tahoma, arial;
+	font-size:8pt;
+}
+
+form {
+	margin:0;
+	margin-top:5px;
+}
+
+h2 {
+	font-size:8pt;
+	font-weight:bold;
+	margin-bottom:10px;
+}
+
+table {
+	font-family:tahoma, arial;
+	font-size:8pt;
+	border:0;
+	background: url('templates/img/login.png');
+}
+
+table.data {
+	background:#cfcfcf;
+	margin-bottom:5px;
+}
+
+td.head {
+	background:#e7e7e7;
+	font-weight:bold; 
+	height:24px;
+}
+
+td.data1 {
+	background:#ffffff;
+	height:24px;
+}
+
+td.data2 {
+	background:#f2f2f2;
+	height:24px;
+}
+
+table.ticket {
+	background:#cfcfcf;
+	margin-bottom:5px;
+	margin-top:10px;
+	
+}
+
+td.topic {
+	background:#ffffff;
+	font-weight:bold;
+	padding:3px 6px 3px 6px;
+}	  
+
+td.message {
+	background:#ffffff;
+	padding:6px 6px 6px 6px;
+}
+     
+#nav_menu {
+	width:170px;
+	padding-top:6px;
+	padding-left:16px;
+	vertical-align:top;
+}
+
+#cont {
+	padding-top:10px;
+	padding-left:10px;
+	vertical-align:top;
+}
+
+#title {
+	margin-left:20px;
+	font-size:18pt;
+	color:#ed8b0d;
+}
+
+.news_title {
+	margin-left:50px;
+	font-size:16pt;
+	color:#ed8b0d;
+}
+
+.news_date {
+	font-family:tahoma, arial;
+	font-weight:bold;
+	font-size:8pt;
+}
+
+.news_text {
+	font-family:tahoma, arial;
+	font-size:8pt;
+}
+
+#subtitle {
+	margin-left:20px;
+	font-size:8pt;
+}
+
+#copyright {
+	padding-top:10px;
+	padding-left:20px;
+	height:40px;
+}
